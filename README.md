@@ -53,7 +53,7 @@ Place your intents.json in the same folder as bert_chatbot.py.
 Run the chatbot script:
 
 ```bash
-python bert_chatbot.py
+python chatbot.py
 ```
 Chat with the bot in the terminal!
 Type your message, and it will reply based on trained intents.
